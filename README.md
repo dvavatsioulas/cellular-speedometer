@@ -1,4 +1,4 @@
-# dvavatsioulas
+# Cellular Speedometer
 ![Cellular Speedometer screenshot](https://i.imgur.com/MFDLgyV.png "Cellular Speedometer")
 
 Προγραμματιστική εργασία στα πλαίσια του μαθήματος "Κινητή και Διάχυτη Υπολογιστική" με υπεύθυνο διδάσκοντα τον κ. Κωνσταντίνο Ψάννη.
